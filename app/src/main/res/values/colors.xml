@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#00bad2</color>
+    <color name="colorPrimaryDark">#00a3b8</color>
+    <color name="colorAccent">#D667CD</color>
     <color name="grey">#CCCCCC</color>
     <color name="transparent">#00000000</color>
     <color name="yellow">#FFFF00</color>
@@ -116,7 +116,7 @@
     <color name="md_edittext_error">#DD2C00</color>
 
     <color name="black_overlay">#66000000</color>
-
-
+   <color name="purple">#D667CD</color>
+    <color name="theme_green_background">#b9f6ca</color>
 
 </resources>

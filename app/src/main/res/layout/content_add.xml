@@ -4,19 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="za.co.empirestate.execute.MainActivity"
-    tools:showIn="@layout/activity_main">
+    tools:context="za.co.empirestate.execute.AddActivity"
+    tools:showIn="@layout/activity_add">
 
-    <!-- Main layout -->
-    <LinearLayout
 
-        android:id="@+id/MainContainer"
-        android:layout_width="match_parent"
-        android:orientation="vertical"
-        android:layout_height="match_parent">
 
-    </LinearLayout>
 
 </RelativeLayout>
